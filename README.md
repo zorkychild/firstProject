@@ -1,5 +1,5 @@
 # firstProject
-Just messing around
+Just messing around. But we are going to add some real in here soon.
 
 Here's some more text.
 
